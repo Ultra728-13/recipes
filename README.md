@@ -8,5 +8,5 @@ echo "- Recipe 2: Chicken Curry" >> README.md
 
 Here are two recipes I love:
 1. [Spaghetti Bolognese](recipe1.md)
-2. [My Recipe 2](recipe2.md)
+2. [Chocolate Cake](recipe2.md)
 
